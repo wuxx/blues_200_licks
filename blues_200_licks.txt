@@ -1,10 +1,10 @@
-˵��
-��VTS_01_1��ʼ��VTS_07_1 ��һ���Ͱ����׵Ĵ�ñ�Ӵ��壬�����lick�����϶������ٵģ���һЩ���ң����ң����Ӧ�ö����Ը��ϡ�
-��VTS_08_1��ʼ��VTS_14_1��ʼ��һλӢ����С�磬�����lick�ٶȱȽϿ��ˣ�С����Ҳ����������Ҳ�Ƚϸ��ӣ������и��ิ�ӵļ��ɣ���λ�ı任�����ܴ�Ҷ�Ҫ������������......
+﻿说明
+从VTS_01_1开始到VTS_07_1 是一个和蔼可亲的戴帽子大叔，讲解的lick基本上都是慢速的，有一些推弦，揉弦，大家应该都可以跟上。
+从VTS_08_1开始到VTS_14_1开始是一位英俊的小哥，讲解的lick速度比较快了，小节数也更长，节奏也比较复杂，而且有更多复杂的技巧，把位的变换，可能大家都要在这里阵亡了......
 
-��VTS_16_1��ʼ��VTS_18_1  ��һ����������
-��VTS_19_1��ʼ��VTS_20_1  ��һ����ʿ����
-�����������ʿ�����lick�Ѷ����У�ֻ�ȺͰ����״�ñ�Ӵ����lick�Ѷȸ�һ��㣬Ӧ���ǿ��Ը㶨�ġ�
+从VTS_16_1开始到VTS_18_1  是一个美国大叔
+从VTS_19_1开始到VTS_20_1  是一个绅士大叔
+美国大叔和绅士大叔的lick难度适中，只比和蔼可亲大帽子大叔的lick难度高一点点，应该是可以搞定的。
 
 VTS_01_1
 lick 001 00:00:06 PENTA-TASTY
@@ -41,10 +41,10 @@ lick 029 00:19:37 PARALLEL PATTERN
 lick 030 00:20:59 TRIADIC BLUES
 
 VTS_03_1
-�������������ǽ�ѧ��Ƶ
+过场动画，不是教学视频
 
 VTS_04_1
-��ʦ�Ŀ������ݣ����ǽ�ѧ��Ƶ
+讲师的开场表演，不是教学视频
 
 VTS_05_1
 lick 031 00:00:00 DORIAN BLUE
@@ -93,7 +93,7 @@ lick 069 00:10:17 PULL IT OFF
 lick 070 00:11:40 NON-LINEAR LINE
 
 
-Ӣ��С�������ǳ�!
+英俊小哥闪亮登场!
 VTS_08_1
 lick 071 00:00:00 V-IV-I INTRO
 lick 072 00:00:48 V-IV-I-V INTRO
@@ -187,10 +187,10 @@ lick 149 00:04:08 OLD SCHOOLED
 lick 150 00:05:12 WORKIN' IT
 
 VTS_14_1
-Ӣ��С��Ŀ������ݣ����ǽ�ѧ��
+英俊小哥的开场表演，不是教学。
 
 VTS_15_1
-��ʿ����Ŀ������ݣ����ǽ�ѧ��
+绅士大叔的开场表演，不是教学。
 
 VTS_16_1
 lick 151 00:00:00 CLASSIC FREDDIE
@@ -203,21 +203,21 @@ lick 157 00:05:34 TRIPLE-STOPS
 lick 158 00:06:33 STEELY BOP
 lick 159 00:07:31 BERRY BLUES
 lick 160 00:08:47 SLOW & MUDDY
-lick xxx 00:10:04 ELMORE TO ALLMAN ����
-lick xxx 00:11:13 SOUTHERM SLIDE ����
-lick xxx 00:12:30 WINTER TIME ����
-lick xxx 00:13:15 MELODIC SLIDE ����
-lick xxx 00:14:17 SPEEDY SLIDE ����
+lick xxx 00:10:04 ELMORE TO ALLMAN 滑棒
+lick xxx 00:11:13 SOUTHERM SLIDE 滑棒
+lick xxx 00:12:30 WINTER TIME 滑棒
+lick xxx 00:13:15 MELODIC SLIDE 滑棒
+lick xxx 00:14:17 SPEEDY SLIDE 滑棒
 
 VTS_17_1
-lick xxx 00:00:00 HORN LINE SLIDE ����
-lick xxx 00:01:06 OCTAVE SLIDER ����
-lick xxx 00:02:19 CLASSIC SLIDE ����
-lick xxx 00:03:34 2-STRING SLIDE ����
-lick xxx 00:04:41 SLOW WATERS ����
+lick xxx 00:00:00 HORN LINE SLIDE 滑棒
+lick xxx 00:01:06 OCTAVE SLIDER 滑棒
+lick xxx 00:02:19 CLASSIC SLIDE 滑棒
+lick xxx 00:03:34 2-STRING SLIDE 滑棒
+lick xxx 00:04:41 SLOW WATERS 滑棒
 
 VTS_18_1
-��������Ŀ������ܣ����ǽ�ѧ��
+美国大叔的开场介绍，不是教学。
 VTS_19_1
 lick 161 00:00:00 FINGER ROLLS
 lick 162 00:01:01 UPBEAT BLUES
